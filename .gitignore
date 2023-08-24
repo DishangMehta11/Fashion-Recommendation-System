@@ -1,0 +1,8 @@
+.idea
+*.zip
+*.jpeg
+test.py
+*.txt
+*.pkl
+DatasetImages
+app.py
